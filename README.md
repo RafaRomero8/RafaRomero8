@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaRomero8
-- 👀 I’m inteested in Information Technology
+- 👀 I’m inteested in Information Technology and DS
 
 
 
